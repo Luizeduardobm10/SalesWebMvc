@@ -1,0 +1,10 @@
+wwwroot:Guardados css, imagens , js, recursos do front end
+Controllers:Controladores
+Models:Models e ViewModels
+View:Telas
+As páginas estão controladas pelo HomeController e html delas está na parte de Views
+Páginas Razor .cshtml
+Shared:Usada por mais de um Controller.(Layout:Tem o layout básico de todas as páginas
+appsettings.json:Configuração de recursos externos, conexão com banco de dados
+Program:Main, onde inicia o programa
+Startup:Configurações do projeto
